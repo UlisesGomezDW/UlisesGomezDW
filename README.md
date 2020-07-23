@@ -20,6 +20,6 @@ const bryanUlises = {
 }
 ```
 
-<em>I´m currently a<b>Frontend Developer</b>. I love learning and developing technological products that help solve various problems. 💁‍♂.</em>
+<em>I´m currently a <b>Frontend Developer</b>. I love learning and developing technological products that help solve various problems 💁‍♂.</em>
 
 </div>
