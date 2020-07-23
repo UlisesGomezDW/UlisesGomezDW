@@ -7,7 +7,7 @@
   👨‍🎓 Technical Programming at <a href="http://cbtis83.edu.mx/index.html">CBTis 83</a> 
 </em></p>
 
-### 🎯 Algunas habilidades...
+### 🎯 Some Soft-Skills...
 
 ```javascript
 const bryanUlises = {
