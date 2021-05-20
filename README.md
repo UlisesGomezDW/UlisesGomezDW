@@ -2,7 +2,7 @@
 <h2> Hi, I'm Bryan Ulises Gómez ✌</h2>
 <img align='right' src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="230">
 <p><em>
-  💚 Frontend Developer at <a href="https://www.facebook.com/ActosoftCommunity">Actosoft</a></br>
+  ❤️ Frontend Developer/br>
   👨‍💻 Student Computer Enginner at <a href="https://www.azc.uam.mx/">Universidad Autonóma Metropolitana</a></br>
   👨‍🎓 Technical Programming at <a href="http://cbtis83.edu.mx/index.html">CBTis 83</a> 
 </em></p>
